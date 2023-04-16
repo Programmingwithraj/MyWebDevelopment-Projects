@@ -24,10 +24,14 @@
     /* background-color: red; */
 
 }
+/* .navbar img{
+    filter: invert(100%);
+} */
 .logosx{
     width: 225px;
     cursor: pointer;
     top: 10px;
+    filter: invert(100%);
 }
 .navbar ul li{
     list-style: none;
@@ -76,7 +80,7 @@
     font-size: 25px;
     font-weight: 35px;
     line-height: 65px;
-    text-decoration: line-through;
+    /* text-decoration: line-through; */
 }
 
 button{
